@@ -1,0 +1,7 @@
+grep — Searches a specific file or set of files to see if a given string of text exists, and if it does, tells you where the text exists in those files.
+This command is extremely flexible (e.g. use wildcards to search all files of a given type) and particularly useful for programmers (to find specific lines of code).
+
+locate — Searches the entire system for files or directories that match the search query, then outputs the absolute paths for each match.
+By default, it only searches in directories for which you have permissions. This is the simplest and fastest way to find a file.
+
+kill/killall — You can use kill to end a process according to its process ID (often used in conjunction with the ps command) whereas you can use killall to end all processes whose names match your query.
